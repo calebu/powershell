@@ -1,0 +1,7 @@
+{"items":[
+    {"product_name":"Phone", "price":200},
+    {"product_name":"Charger", "price":20},
+    {"product_name":"Headphones", "price":100},
+    {"product_name":"Case", "price":40},
+    {"product_name":"Speaker", "price":90}
+]}
